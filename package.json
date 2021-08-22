@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-reverse-arguments",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Create a function that invokes a provided function with arguments in reverse order.",
   "license": "Apache-2.0",
   "author": {
@@ -15,6 +15,7 @@
   ],
   "main": "./lib",
   "directories": {
+    "benchmark": "./benchmark",
     "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",

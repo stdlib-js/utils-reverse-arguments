@@ -146,6 +146,12 @@ out = bar( 1, 2, 3 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/reorder-arguments`][@stdlib/utils/reorder-arguments]: create a function that invokes a provided function with reordered arguments.
+
 </section>
 
 <!-- /.related -->
@@ -206,6 +212,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-reverse-arguments/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/reorder-arguments]: https://github.com/stdlib-js/utils-reorder-arguments
+
+<!-- </related-links> -->
 
 </section>
 

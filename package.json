@@ -1,0 +1,40 @@
+{
+  "name": "@stdlib/utils-reverse-arguments",
+  "version": "0.0.0",
+  "description": "Create a function that invokes a provided function with arguments in reverse order.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/utils-reverse-arguments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdutils",
+    "stdutil",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "reverse",
+    "rev",
+    "arguments",
+    "args",
+    "invoke",
+    "call",
+    "apply",
+    "function",
+    "fun",
+    "func",
+    "fcn"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}

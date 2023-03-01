@@ -158,7 +158,7 @@ out = bar( 1, 2, 3 );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/reorder-arguments`][@stdlib/utils/reorder-arguments]</span><span class="delimiter">: </span><span class="description">create a function that invokes a provided function with reordered arguments.</span>
+-   <span class="package-name">[`@stdlib/utils-reorder-arguments`][@stdlib/utils/reorder-arguments]</span><span class="delimiter">: </span><span class="description">create a function that invokes a provided function with reordered arguments.</span>
 
 </section>
 

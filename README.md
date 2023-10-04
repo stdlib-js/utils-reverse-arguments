@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@deno/mod.js';
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.1.1-deno/mod.js';
 ```
 
 #### reverseArguments( fcn\[, thisArg] )
@@ -118,7 +118,7 @@ var out = bar( 1, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@deno/mod.js';
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.1.1-deno/mod.js';
 
 function foo( a, b, c ) {
     return [ a, b, c ];

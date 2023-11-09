@@ -169,6 +169,7 @@ out = bar( 1, 2, 3 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/utils-mask-arguments`][@stdlib/utils/mask-arguments]</span><span class="delimiter">: </span><span class="description">create a function that invokes a provided function according to an argument mask.</span>
 -   <span class="package-name">[`@stdlib/utils-reorder-arguments`][@stdlib/utils/reorder-arguments]</span><span class="delimiter">: </span><span class="description">create a function that invokes a provided function with reordered arguments.</span>
 
 </section>
@@ -245,6 +246,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-reverse-arguments/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/utils/mask-arguments]: https://github.com/stdlib-js/utils-mask-arguments
 
 [@stdlib/utils/reorder-arguments]: https://github.com/stdlib-js/utils-reorder-arguments
 

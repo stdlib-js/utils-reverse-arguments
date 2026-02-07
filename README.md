@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@esm/index.mjs';
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.2.3-esm/index.mjs';
 ```
 
 #### reverseArguments( fcn\[, thisArg] )
@@ -123,7 +123,7 @@ var out = bar( 1, 2 );
 <body>
 <script type="module">
 
-import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@esm/index.mjs';
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.2.3-esm/index.mjs';
 
 function foo( a, b, c ) {
     return [ a, b, c ];

@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-reverse-arguments/tags). For example,
+
+```javascript
 import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.2.3-deno/mod.js';
 ```
 
@@ -118,7 +123,7 @@ var out = bar( 1, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@v0.2.3-deno/mod.js';
+import reverseArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reverse-arguments@deno/mod.js';
 
 function foo( a, b, c ) {
     return [ a, b, c ];
